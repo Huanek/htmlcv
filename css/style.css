@@ -6,7 +6,7 @@ body{
     font-family: 'Roboto Condensed', sans-serif;
 }
 .logo{
-    width: 150px;
+    width: 200px;
 }
 .btn-primary {
     background-color: #fff; /* Green */
@@ -30,7 +30,6 @@ body{
     background-color: #cc99ff;
     padding: 100px 20px 100px 20px;
     color: #fff;
-    
 }
 .btn-secondary {
     background-color: #cc99ff; /* Green */
@@ -45,7 +44,7 @@ body{
     border: 2px solid white;
     margin-bottom: 20px;
 }
-h2{
+h2, p, ul{
     font-weight: 300;
 }
 .container{
